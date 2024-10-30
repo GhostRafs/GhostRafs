@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Rafael</h1>
 <h3 align="center">Estudante de Ciências da computação</h3>
 
-- 🌱 Estou Atualmente aprendendo **SQL**
+- 🌱 Estou Atualmente aprendendo **C++**
 
 - 📫 Como entrar em contato **rafinhapsampaio@hotmail.com**
 
